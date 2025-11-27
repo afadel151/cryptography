@@ -1,0 +1,7 @@
+Le processus de sélection de l’AES a été notable pour sa transparence et sa collaboration internationale.
+Les conférences des candidats et les sollicitations de commentaires du public ont fourni une plateforme pour des retours d’information, des discussions et des analyses approfondies des candidats à l’AES.
+
+Cette approche a été très bien accueillie par les participants et les observateurs.
+L’aspect mondial de l’AES était évident à travers la diversité des pays représentés par les auteurs des 15 chiffrements candidats, dont l’Australie, la Belgique, le Canada, le Costa Rica, la France, l’Allemagne, xxxx, le Japon, la Corée, la Norvège, le Royaume-Uni et les États-Unis.
+
+Finalement, Rijndael, développé par les chercheurs belges Daemen et Rijmen, a été sélectionné comme 
